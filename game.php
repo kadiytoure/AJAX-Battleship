@@ -42,7 +42,15 @@ for(let y = 0; y < ligne.length; y = y + 1){
         });
     }
 }
-
+doAjax({
+    url: 'create-boat.php',
+    callback: function (reponse) {
+        let parser = new DOMParser();
+        let createboat = parser
+    }
+    ajax.open();
+    ajax.send();
+});
 </script>
 </body>
 </html>
