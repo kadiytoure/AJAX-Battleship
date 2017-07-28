@@ -54,4 +54,4 @@ doAjax({
 </script>
 </body>
 </html>
-<!-- Afficher les bateaux avec leurs noms et leurs nbres de cases; -->
+
